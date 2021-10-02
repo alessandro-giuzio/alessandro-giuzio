@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Hi there
+
+# Hi there
+
 Studying to be Front End Developer. Happy to learn everyday something new. 🔥 ☕️ Lover #JavaScript Enthusiastic #🏃‍♂️ other day!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio)](https://github.com/anuraghazra/github-readme-stats)
