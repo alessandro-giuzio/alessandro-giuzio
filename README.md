@@ -4,6 +4,8 @@ Studying to be Front End Developer. Happy to learn everyday something new. 🔥 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/twitter.sketch
+
 <!--
 **alessandro-giuzio/alessandro-giuzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
