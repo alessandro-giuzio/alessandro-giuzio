@@ -8,6 +8,8 @@ Studying to be Front End Developer. Happy to learn everyday something new. 🔥 
 
 https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/twitter.sketch
 
+<img src:"https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/copy.jpg">
+
 <!--
 **alessandro-giuzio/alessandro-giuzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
