@@ -1,8 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-## Hi there
 
-# Hi there
 
 Studying to be Front End Developer. Happy to learn everyday something new. 🔥 ☕️ Lover #JavaScript Enthusiastic #🏃‍♂️ other day!
 
