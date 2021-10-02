@@ -1,6 +1,7 @@
+#WORK IN PROGRESS
+
 # Hi there 👋
 
- #WORK IN PROGRESS
 
 Studying to be Front End Developer. Happy to learn everyday something new. 🔥 ☕️ Lover #JavaScript Enthusiastic #🏃‍♂️ other day!
 
