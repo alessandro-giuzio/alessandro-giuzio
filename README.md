@@ -1,20 +1,39 @@
 # WORK IN PROGRESS
 
 ### Hi there 👋, my name is Alessandro
-#### Web developer,  happy to learn everyday something new
-![Web developer,  happy to learn everyday something new](https://twitter.com/giuzioale/header_photo)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+#### webdeveloper,  community organizer, coffee roaster
+![webdeveloper,  community organizer, coffee roaster](https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/header.png)
+
+Lost long-life job because pandemic, now transforming my self in developer. Like to improve my skills every day, here to learn and build tech projects.
+
+Skills: HTML / CSS / JS /  GIT / FIGMA
 
 - 🔭 I’m currently working on coffeesoul.com 
-- 🌱 I’m currently learning CSS3  and JavaScript 
-- 💬 Ask me about how to roast a good coffee 
+- 🌱 I’m currently learning CSS3 / JavaScript 
+- 👯 I’m looking to collaborate on Web Development and Design 
+- 🤔 I’m looking for help with JavaScript 
+- 📫 How to reach me: giuzio@icloud.com 
 - ⚡ Fun fact: I used to be Coffee Roaster back in UK 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alessandro-giuzio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alessandrogiuzio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@giuzioale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/alessandrogiuzio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](giuzio.me)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alessandro-giuzio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alessandrogiuzio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/giuzioale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/alessandrogiuzio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](giuzio.me)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
