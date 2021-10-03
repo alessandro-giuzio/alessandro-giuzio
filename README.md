@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Alessandro
-#### webdeveloper,  community organizer, coffee roaster
+# Hi there 👋, my name is Alessandro
+## webdeveloper,  community organizer, coffee roaster
 ![webdeveloper,  community organizer, coffee roaster](https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/header-1.png)
 
 Lost long-life job because pandemic, now transforming my self in developer. Like to improve my skills every day, here to learn and build tech projects.
