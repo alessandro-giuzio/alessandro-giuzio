@@ -1,10 +1,6 @@
-# WORK IN PROGRESS
-
 ### Hi there 👋, my name is Alessandro
-
-
 #### webdeveloper,  community organizer, coffee roaster
-![webdeveloper,  community organizer, coffee roaster](https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/header.png)
+![webdeveloper,  community organizer, coffee roaster](https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/header-1.png)
 
 Lost long-life job because pandemic, now transforming my self in developer. Like to improve my skills every day, here to learn and build tech projects.
 
@@ -19,6 +15,9 @@ Skills: HTML / CSS / JS /  GIT / FIGMA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alessandro-giuzio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alessandrogiuzio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/giuzioale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/alessandrogiuzio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](giuzio.me)  
+
+
+
 
 
 
