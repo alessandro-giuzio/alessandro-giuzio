@@ -10,7 +10,7 @@ I'm Alessandro, italian from Spain, Web Developer, community organizer and coffe
  * 🖼  FIGMA
 
 - 🔭 I’m currently working on coffeesoul.com 
-- 🌱 I’m currently learning CSS3 / JavaScript 
+- 🌱 I’m currently learning CSS3 / JavaScript / Svelte
 - 👯 I’m looking to collaborate on Web Development and Design 
 - 🤔 I’m looking for help with JavaScript 
 - 📫 How to reach me: giuzio@icloud.com 
