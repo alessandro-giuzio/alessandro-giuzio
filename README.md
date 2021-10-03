@@ -7,7 +7,7 @@ Studying to be Front End Developer. Happy to learn everyday something new. 🔥 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio&show_icons=true&theme=tokionight)
 
 
 <img src="https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/copy.jpg">
