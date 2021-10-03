@@ -1,13 +1,13 @@
-# Hi there 👋, my name is Alessandro
+# Alessandro Giuzio
 ## webdeveloper,  community organizer, coffee roaster
 ![webdeveloper,  community organizer, coffee roaster](https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/header-1.png)
 
-Lost long-life job because pandemic, now transforming my self in developer. Like to improve my skills every day, here to learn and build tech projects.
+I'm Alessandro, italian from Spain, Web Developer, community organizer and coffee roaster. Lost long-life job because pandemic, now transforming my self in developer. I really like learning languages and frameworks like JavaScript and Svelte. 
 
 ## Skills
- * 💻 HTML / CSS / JS 
- * 🌍 GIT
- * 🖼 FIGMA
+ * 💻  HTML / CSS / JS 
+ * 🌍  GIT
+ * 🖼  FIGMA
 
 - 🔭 I’m currently working on coffeesoul.com 
 - 🌱 I’m currently learning CSS3 / JavaScript 
