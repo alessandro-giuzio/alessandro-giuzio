@@ -5,9 +5,9 @@
 Lost long-life job because pandemic, now transforming my self in developer. Like to improve my skills every day, here to learn and build tech projects.
 
 ## Skills
- 💻 HTML / CSS / JS 
- 🌍 GIT
- 🖼 FIGMA
+ * 💻 HTML / CSS / JS 
+ * 🌍 GIT
+ * 🖼 FIGMA
 
 - 🔭 I’m currently working on coffeesoul.com 
 - 🌱 I’m currently learning CSS3 / JavaScript 
