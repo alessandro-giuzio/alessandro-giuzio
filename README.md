@@ -5,7 +5,7 @@
 I'm Alessandro, italian from Spain, Web Developer, community organizer and coffee roaster. Lost long-life job because pandemic, now transforming my self in developer. I really like learning languages and frameworks like JavaScript and Svelte. 
 
 ## Skills
- * 💻  HTML / CSS / JS 
+ * 💻  HTML / CSS / JS / Svelte
  * 🌍  GIT
  * 🖼  FIGMA
 
