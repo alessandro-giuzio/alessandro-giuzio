@@ -5,10 +5,9 @@
 I'm Alessandro, italian from Spain, Web Developer, community organizer and coffee roaster. Lost long-life job because pandemic, now transforming my self in developer. I really like learning languages and frameworks like JavaScript and Svelte. 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
- * 💻  HTML / CSS / JS / Svelte
- * 🌍  GIT
- * 🖼  FIGMA
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bootstrap,figma,git,svelte,tailwind,vite,)](https://skillicons.dev)
+
 
 - 🔭 I’m currently working on coffeesoul.com 
 - 🌱 I’m currently learning CSS3 / JavaScript / Svelte
