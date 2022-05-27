@@ -27,6 +27,6 @@ I'm Alessandro, italian from Spain, Web Developer, community organizer and coffe
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessandro-giuzio)](https://git.io/streak-stats)
 
-https://pagespeed-insights.herokuapp.com?url=https://www.coffeesoul.com
+https://pagespeed-insights.herokuapp.com?url=https://coffeesoul.com
 
 
