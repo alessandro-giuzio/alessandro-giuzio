@@ -9,8 +9,8 @@ I'm Alessandro, italian from Spain, Web Developer, community organizer and coffe
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bootstrap,figma,git,svelte,tailwind,vite,)](https://skillicons.dev)
 
 
-- 🔭 I’m currently working on coffeesoul.com 
-- 🌱 I’m currently learning CSS3 / JavaScript / Svelte
+- 🔭 I’m currently working on https://das-pro.dev/ 
+- 🌱 I’m currently learning VueJS / JavaScript / Svelte
 - 👯 I’m looking to collaborate on Web Development and Design 
 - 🤔 I’m looking for help with JavaScript 
 - 📫  <a href="mailto:info@agencyga.com">How to reach me</a>
