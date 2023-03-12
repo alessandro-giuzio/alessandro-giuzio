@@ -1,8 +1,8 @@
 # Alessandro Giuzio
-## Junior Web Developer ,  Community organizer, coffee roaster
+## Web Developer ,  Community organizer, coffee roaster
 ![webdeveloper,  community organizer, coffee roaster](https://github.com/alessandro-giuzio/alessandro-giuzio/blob/main/10.jpg)
 
-I'm Alessandro, italian from Spain, Web Developer, community organizer and coffee roaster. Lost long-life job because pandemic, now transforming my self in developer. I really like learning languages and frameworks like JavaScript and Svelte. 
+I'm Alessandro, italian from Spain, Web Developer, community organizer and coffee roaster. I really like learning languages and frameworks like JavaScript and Svelte. 
 
 ## Skills
 
