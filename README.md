@@ -23,9 +23,6 @@ I'm Alessandro, an Italian from Spain, a Web Developer, community organizer and 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio&show_icons=true&theme=vue-dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessandro-giuzio)](https://git.io/streak-stats)
 
 
 
