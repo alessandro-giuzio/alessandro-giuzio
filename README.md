@@ -13,7 +13,7 @@ I'm Alessandro, an Italian from Spain, a Web Developer, community organizer and 
 - 🌱 I’m currently learning VueJS / JavaScript / Svelte
 - 👯 I’m looking to collaborate on Web Development and Design 
 - 🤔 I’m looking for help with JavaScript 
-- 📫  <a href="mailto:info@agencyga.com">How to reach me</a>
+- 📫  <a href="mailto:hola@agencyga.es">How to reach me</a>
 - ⚡ Fun fact: I used to be a Coffee Roaster back in the UK 
 
 
