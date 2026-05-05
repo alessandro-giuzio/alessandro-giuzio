@@ -54,4 +54,4 @@ Currently working on **[das-pro.dev](https://das-pro.dev/)** and going deep into
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alessandro-giuzio&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alessandro-giuzio&theme=vue-dark)](https://git.io/streak-stats)
