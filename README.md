@@ -46,14 +46,12 @@ Currently working on **[das-pro.dev](https://das-pro.dev/)** and going deep into
 
 ## Find me around the web
 
-<p>
-  <a href="https://github.com/alessandro-giuzio"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="32" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alessandrogiuzio/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="32" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/giuzioale"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="32" /></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/alessandrogiuzio"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" height="32" /></a>&nbsp;&nbsp;
-  <a href="mailto:hola@agencyga.es"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="32" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alessandro-giuzio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrogiuzio/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/giuzioale)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alessandrogiuzio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@agencyga.es)
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessandro-giuzio&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alessandro-giuzio&theme=dark)](https://git.io/streak-stats)
