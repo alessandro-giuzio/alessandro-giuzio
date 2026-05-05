@@ -1,10 +1,10 @@
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=180&section=header&text=Alessandro%20Giuzio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Community%20Organizer%20%C2%B7%20Former%20Coffee%20Roaster&descAlignY=62&descSize=16)](https://github.com/alessandro-giuzio)
+[![banner](https://capsule-render.vercel.app/api?type=waving&color=E84545&height=180&section=header&text=Alessandro%20Giuzio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Community%20Organizer%20%C2%B7%20Former%20Coffee%20Roaster&descAlignY=62&descSize=16)](https://github.com/alessandro-giuzio)
 
-[![Website](https://img.shields.io/badge/das--pro.dev-0EA5E9?style=for-the-badge&logo=safari&logoColor=white)](https://das-pro.dev/)
+[![Website](https://img.shields.io/badge/das--pro.dev-E84545?style=for-the-badge&logo=safari&logoColor=white)](https://das-pro.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrogiuzio/)
-[![Twitter](https://img.shields.io/badge/@giuzioale-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/giuzioale)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alessandrogiuzio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@agencyga.es)
+[![Twitter](https://img.shields.io/badge/@giuzioale-1A1A2E?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/giuzioale)
+[![CodePen](https://img.shields.io/badge/CodePen-1A1A2E?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alessandrogiuzio)
+[![Email](https://img.shields.io/badge/Email-E84545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@agencyga.es)
 
 ---
 
@@ -50,10 +50,10 @@ A vanilla JavaScript web scraper.
 
 ### stats
 
-![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-giuzio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=E84545&title_color=E84545)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-giuzio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E84545)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alessandro-giuzio&theme=dark&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alessandro-giuzio&theme=dark&hide_border=true&background=0d1117&ring=E84545&fire=E84545&currStreakLabel=E84545)](https://git.io/streak-stats)
 
 ---
 
@@ -61,4 +61,4 @@ A vanilla JavaScript web scraper.
 
 [das-pro.dev](https://das-pro.dev/) · [linkedin](https://www.linkedin.com/in/alessandrogiuzio/) · [@giuzioale](https://twitter.com/giuzioale) · [hola@agencyga.es](mailto:hola@agencyga.es)
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer)](https://github.com/alessandro-giuzio)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=E84545&height=100&section=footer)](https://github.com/alessandro-giuzio)
