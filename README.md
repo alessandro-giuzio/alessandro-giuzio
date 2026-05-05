@@ -1,10 +1,4 @@
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=E84545&height=180&section=header&text=Alessandro%20Giuzio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Community%20Organizer%20%C2%B7%20Former%20Coffee%20Roaster&descAlignY=62&descSize=16)](https://github.com/alessandro-giuzio)
-
-[![Website](https://img.shields.io/badge/das--pro.dev-E84545?style=for-the-badge&logo=safari&logoColor=white)](https://das-pro.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrogiuzio/)
-[![Twitter](https://img.shields.io/badge/@giuzioale-1A1A2E?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/giuzioale)
-[![CodePen](https://img.shields.io/badge/CodePen-1A1A2E?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alessandrogiuzio)
-[![Email](https://img.shields.io/badge/Email-E84545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@agencyga.es)
+<img src="Twitter%20header%20-%204.png" alt="Alessandro Giuzio" width="100%" />
 
 ---
 
@@ -60,5 +54,3 @@ A vanilla JavaScript web scraper.
 **Building on the open web from Spain.**
 
 [das-pro.dev](https://das-pro.dev/) · [linkedin](https://www.linkedin.com/in/alessandrogiuzio/) · [@giuzioale](https://twitter.com/giuzioale) · [hola@agencyga.es](mailto:hola@agencyga.es)
-
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=E84545&height=100&section=footer)](https://github.com/alessandro-giuzio)
