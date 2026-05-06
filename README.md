@@ -2,13 +2,19 @@
 
 ---
 
-### whoami
+### Who am I
 
 Italian based in Spain. I build things for the web — from clean UI components to full-stack Laravel apps. I enjoy learning in public, connecting people in the dev community, and occasionally thinking about coffee origin profiles.
 
 ---
 
-### whatamidoing
+## 🌐 Socials
+
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/giuzioale.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandrogiuzio) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/giuzioale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hola@agencyga.es)
+
+---
+
+### What am I doing
 
 #### [das-pro.dev](https://das-pro.dev/)
 
@@ -38,11 +44,10 @@ A weather app built with Vue.
 
 ---
 
-### stats
+# 📊 GitHub Stats
 
-![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandro-giuzio&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=E84545&title_color=E84545)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-giuzio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E84545)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alessandro-giuzio&theme=dark&hide_border=true&background=0d1117&ring=E84545&fire=E84545&currStreakLabel=E84545)](https://git.io/streak-stats)
+![](https://github-readme-stats.shion.dev/api?username=alessandro-giuzio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alessandro-giuzio&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alessandro-giuzio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
