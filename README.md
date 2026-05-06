@@ -30,10 +30,6 @@ My PHP / Laravel / Vue learning lab — notes, snippets, and exercises from Lara
 
 A weather app built with Vue.
 
-#### [web-scraper](https://github.com/alessandro-giuzio/web-scraper)
-
-A vanilla JavaScript web scraper.
-
 ---
 
 ### stack
@@ -50,7 +46,3 @@ A vanilla JavaScript web scraper.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alessandro-giuzio&theme=dark&hide_border=true&background=0d1117&ring=E84545&fire=E84545&currStreakLabel=E84545)](https://git.io/streak-stats)
 
 ---
-
-**Building on the open web from Spain.**
-
-[das-pro.dev](https://das-pro.dev/) · [linkedin](https://www.linkedin.com/in/alessandrogiuzio/) · [@giuzioale](https://twitter.com/giuzioale) · [hola@agencyga.es](mailto:hola@agencyga.es)
