@@ -14,31 +14,13 @@ Italian based in Spain. I build things for the web — from clean UI components 
 
 ---
 
-### What am I doing
+### Currently
 
-#### [das-pro.dev](https://das-pro.dev/)
-
-My main project. A web development agency site — design, development, and everything in between.
-
-#### [astro-components](https://github.com/alessandro-giuzio/astro-components)
-
-A growing library of reusable UI components built with Astro.
-
-#### [astro-blog](https://github.com/alessandro-giuzio/astro-blog)
-
-Personal blog built with Astro. Writing about web dev, tools, and what I'm learning.
-
-#### [laracasts-playground](https://github.com/alessandro-giuzio/laracasts-playground)
-
-My PHP / Laravel / Vue learning lab — notes, snippets, and exercises from Laracasts.
-
-#### [weather-app](https://github.com/alessandro-giuzio/weather-app)
-
-A weather app built with Vue.
+Learning more Laravel, building with Astro, drinking too much coffee.
 
 ---
 
-### stack
+### Stack
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,astro,svelte,vue,php,laravel,tailwind,bootstrap,figma,git,vite)](https://skillicons.dev)
 
