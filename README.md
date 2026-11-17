@@ -2,9 +2,11 @@
 
 ---
 
-### Who am I
+### Hey, I'm Alessandro 👋
 
-Italian based in Spain. I build things for the web — from clean UI components to full-stack Laravel apps. I enjoy learning in public, connecting people in the dev community, and occasionally thinking about coffee origin profiles.
+Freelance front-end developer and digital consultant based in San Sebastián.
+I build websites and web tools for small businesses through [Agency-GA](https://www.agencyga.es),
+with a focus on speed, accessibility and local SEO.
 
 ---
 
@@ -16,7 +18,7 @@ Italian based in Spain. I build things for the web — from clean UI components 
 
 ### Currently
 
-Learning more Laravel, building with Astro, drinking too much coffee.
+🔨 **Currently building:** [hitzordu](https://github.com/alessandro-giuzio/hitzordu), one accessible booking widget that runs on WordPress or a Laravel API
 
 ---
 
